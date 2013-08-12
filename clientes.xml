@@ -1,0 +1,146 @@
+﻿<Clientes>
+    <Cliente>
+        <ClienteID>ALFKI</ClienteID>
+        <CompanyName>Alfreds Futterkiste</CompanyName>
+        <ContactName>Maria </ContactName>
+        <ContactTitle>Agente de ventas</ContactTitle>
+        <Address>Obere Str. 57</Address>
+        <City>Boise</City>
+        <PostalCode>12209</PostalCode>
+        <Country>Germany</Country>
+        <Phone>030-0074321</Phone>
+        <Fax>030-0076545</Fax>
+    </Cliente>
+    <Cliente>
+        <ClienteID>ANATR</ClienteID>
+        <CompanyName>Ana Trujillo Emparedados y helados</CompanyName>
+        <ContactName>Ana Trujillo</ContactName>
+        <ContactTitle>Gerente</ContactTitle>
+        <Address>Avda. de la Constitución 2222</Address>
+        <City>México D.F.</City>
+        <PostalCode>05021</PostalCode>
+        <Country>Mexico</Country>
+        <Phone>555-4729</Phone>
+        <Fax>555-3745</Fax>
+    </Cliente>
+<Cliente>
+        <ClienteID>BIMBO</ClienteID>
+        <CompanyName>BIMBO MEXICO</CompanyName>
+        <ContactName>Pedro Carlos</ContactName>
+        <ContactTitle>Gerente</ContactTitle>
+        <Address>Avda. de la Constitución 2222</Address>
+        <City>México D.F.</City>
+        <PostalCode>05021</PostalCode>
+        <Country>Mexico</Country>
+        <Phone>555-4729</Phone>
+        <Fax>555-3745</Fax>
+    </Cliente>
+<Cliente>
+        <ClienteID>ALFKI</ClienteID>
+        <CompanyName>Alfreds Futterkiste</CompanyName>
+        <ContactName>Maria </ContactName>
+        <ContactTitle>Agente de ventas</ContactTitle>
+        <Address>Obere Str. 57</Address>
+        <City>Boise</City>
+        <PostalCode>12209</PostalCode>
+        <Country>Germany</Country>
+        <Phone>030-0074321</Phone>
+        <Fax>030-0076545</Fax>
+    </Cliente>
+<Cliente>
+        <ClienteID>ANATR</ClienteID>
+        <CompanyName>Ana Trujillo Emparedados y helados</CompanyName>
+        <ContactName>Ana Trujillo</ContactName>
+        <ContactTitle>Gerente</ContactTitle>
+        <Address>Avda. de la Constitución 2222</Address>
+        <City>México D.F.</City>
+        <PostalCode>05021</PostalCode>
+        <Country>Mexico</Country>
+        <Phone>555-4729</Phone>
+        <Fax>555-3745</Fax>
+    </Cliente>
+<Cliente>
+        <ClienteID>BIMBO</ClienteID>
+        <CompanyName>BIMBO MEXICO</CompanyName>
+        <ContactName>Pedro Carlos</ContactName>
+        <ContactTitle>Gerente</ContactTitle>
+        <Address>Avda. de la Constitución 2222</Address>
+        <City>México D.F.</City>
+        <PostalCode>05021</PostalCode>
+        <Country>Mexico</Country>
+        <Phone>555-4729</Phone>
+        <Fax>555-3745</Fax>
+    </Cliente>
+<Cliente>
+        <ClienteID>ALFKI</ClienteID>
+        <CompanyName>Alfreds Futterkiste</CompanyName>
+        <ContactName>Maria </ContactName>
+        <ContactTitle>Agente de ventas</ContactTitle>
+        <Address>Obere Str. 57</Address>
+        <City>Boise</City>
+        <PostalCode>12209</PostalCode>
+        <Country>Germany</Country>
+        <Phone>030-0074321</Phone>
+        <Fax>030-0076545</Fax>
+    </Cliente>
+    <Cliente>
+        <ClienteID>ANATR</ClienteID>
+        <CompanyName>Ana Trujillo Emparedados y helados</CompanyName>
+        <ContactName>Ana Trujillo</ContactName>
+        <ContactTitle>Gerente</ContactTitle>
+        <Address>Avda. de la Constitución 2222</Address>
+        <City>México D.F.</City>
+        <PostalCode>05021</PostalCode>
+        <Country>Mexico</Country>
+        <Phone>555-4729</Phone>
+        <Fax>555-3745</Fax>
+    </Cliente>
+<Cliente>
+        <ClienteID>BIMBO</ClienteID>
+        <CompanyName>BIMBO MEXICO</CompanyName>
+        <ContactName>Pedro Carlos</ContactName>
+        <ContactTitle>Gerente</ContactTitle>
+        <Address>Avda. de la Constitución 2222</Address>
+        <City>México D.F.</City>
+        <PostalCode>05021</PostalCode>
+        <Country>Mexico</Country>
+        <Phone>555-4729</Phone>
+        <Fax>555-3745</Fax>
+    </Cliente>
+<Cliente>
+        <ClienteID>ALFKI</ClienteID>
+        <CompanyName>Alfreds Futterkiste</CompanyName>
+        <ContactName>Maria </ContactName>
+        <ContactTitle>Agente de ventas</ContactTitle>
+        <Address>Obere Str. 57</Address>
+        <City>Boise</City>
+        <PostalCode>12209</PostalCode>
+        <Country>Germany</Country>
+        <Phone>030-0074321</Phone>
+        <Fax>030-0076545</Fax>
+    </Cliente>
+<Cliente>
+        <ClienteID>ANATR</ClienteID>
+        <CompanyName>Ana Trujillo Emparedados y helados</CompanyName>
+        <ContactName>Ana Trujillo</ContactName>
+        <ContactTitle>Gerente</ContactTitle>
+        <Address>Avda. de la Constitución 2222</Address>
+        <City>México D.F.</City>
+        <PostalCode>05021</PostalCode>
+        <Country>Mexico</Country>
+        <Phone>555-4729</Phone>
+        <Fax>555-3745</Fax>
+    </Cliente>
+<Cliente>
+        <ClienteID>BIMBO</ClienteID>
+        <CompanyName>BIMBO MEXICO</CompanyName>
+        <ContactName>Pedro Carlos</ContactName>
+        <ContactTitle>Gerente</ContactTitle>
+        <Address>Avda. de la Constitución 2222</Address>
+        <City>México D.F.</City>
+        <PostalCode>05021</PostalCode>
+        <Country>Mexico</Country>
+        <Phone>555-4729</Phone>
+        <Fax>555-3745</Fax>
+    </Cliente>
+</Clientes>
